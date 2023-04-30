@@ -1,0 +1,22 @@
+{
+  "name": "simple-vue2",
+  "version": "1.0.0",
+  "description": "#### Description vue2的简单实现",
+  "main": "index.js",
+  "scripts": {
+    "watch": "rollup -c --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitee.com:zhouzhishou/simple-vue2.git"
+  },
+  "type":"module",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.21.4",
+    "@babel/preset-env": "^7.21.4",
+    "@rollup/plugin-babel": "^6.0.3",
+    "rollup": "^3.20.7"
+  }
+}
